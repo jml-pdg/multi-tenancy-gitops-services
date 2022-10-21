@@ -4,7 +4,7 @@ ibm-apic-instance:
     spec:
       license:
         accept: true
-        use: production
-        license: L-RJON-BZEP9N
-      version: 10.0.3.0-ifix1
-      profile: n3xc14.m48
+        use: nonproduction
+        license: L-RJON-CEBL97
+      version: 10.0.5.1
+      profile: n1xc10.m48
