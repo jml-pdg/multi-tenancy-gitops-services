@@ -8,3 +8,4 @@ ibm-apic-instance:
         license: L-RJON-CEBL97
       version: 10.0.5.1
       profile: n1xc10.m48
+      allowUpgrade: true
